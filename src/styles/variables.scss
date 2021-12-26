@@ -1,0 +1,22 @@
+$body-font-family: 'Inter', sans-serif;
+$body-font-color: "red";
+$body-color: "red";
+$heading-font-family: 'Inter', sans-serif;
+
+$material-ligth: (
+  'background': #0A0025,
+  'picker': (
+    'body': #0A0025,
+  ),
+  'cards': #0A0025,
+);
+// body {
+//   background-color: #ff0000;
+//   color: #0A0025; 
+//   $body-font-family: 'Roboto', sans-serif;
+// }
+
+h1,h2,h3,h4,h5,h6,p,span {
+  color: black; 
+}
+
